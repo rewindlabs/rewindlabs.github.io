@@ -11,6 +11,10 @@ a {
     color: inherit;
 }
 
+a:hover {
+    color: #d7d7dc;
+}
+
 .main {
     min-height: 100vh;
 }
